@@ -892,13 +892,13 @@ def lisensi():
 ####login#########
 def login():
     os.system('clear')
-        print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m1.\x1b[1;96m Fast Cloning Without Fb ID\033[1;92m[New Update]"
+        print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m> Fast Cloning Without Fb ID\033[1;92m[New Update]"
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m2.\x1b[1;94m Mr-Robot   WhatsApp Group   "
+        print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m> Mr-Robot   WhatsApp Group   "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;91m> \033[1;93m3.\x1b[1;91m Mark Cornel   Facebook Profile   "
+        print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m> Mark Cornel   Facebook Profile   "
         time.sleep(0.05)
-	    print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91m Exit             "
+	    print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m> Exit             "
 	  pilih_login()
 	
 	
