@@ -119,9 +119,9 @@ logo11 = """
 \033[1;96m   `OOOOOI```IOOOOO'   \033[1;93m    `OOOOOI```IOOOOO'
 \033[1;96m    `OOOOI,,,IOOOO'    \033[1;93m     `OOOOI,,,IOOOO'   
 \033[1;96m     `OOOOOOOOOOO'     \033[1;93m      `OOOOOOOOOOO'
-\033[1;96m       `~OOOOO~' GUPTA-SHAKEL\033[1;93mZakarya  `~OOOOO~'   
+\033[1;96m       `~OOOOO~' GUPTA-SHAKEL\033[1;93m  `~OOOOO~'   
 
-\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮\033[1;91mMARK-CORNEL\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮"""
+\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮\033[1;91m[MARK-CORNEL]\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮"""
 logo13 = """
 \033[1;92m	
 \033[1;97m                      :::!~!!!!!:.
